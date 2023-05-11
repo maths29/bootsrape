@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.list-group {
+    margin-bottom: 10px;
+}
+
+.list-item {
+    background-color: #EBEBFF;
+    border: 0;
+    border-radius: 10px !important;
+    color: #6070FF;
+}
+
+.text-bottom2 {
+    list-style-type: none;
+    padding: 0;
+}
