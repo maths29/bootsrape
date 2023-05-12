@@ -29,12 +29,11 @@
 
 .worksec .card-md-12 > .card {
   border: 0 !important;
-  background-color: red;
+  background-color: white;
 }
 
 .col-md-12 {
   margin-bottom: 130px;
   border-radius: 24px !important;
   border: 1px solid #dfe1e6;
-
 }
