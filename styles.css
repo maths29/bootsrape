@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.head-text {
+  height: 100vh;
+  padding-top: 360px;
+  background-image: url(./img/Header\ bg.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head-text .pod {
+  padding-left: 250px;
+}
+
+.head-text .pod p {
+  width: 40%;
+}
+
+.col-md-6 {
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.list-group {
+  margin-bottom: 10px;
+  gap: 10px;
+}
+
+.list-item {
+  background-color: #ebebff;
+  border: 0;
+  border-radius: 10px !important;
+  color: #6070ff;
+}
+
+.text-bottom2 {
+  list-style-type: none;
+  padding: 0;
+}
+
+.worksec > .row {
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 140px;
+}
+
+.worksec .col-md-12 .card .row {
+  border: 0;
+  border-radius: 24px !important;
+}
+
+.col-md-12 {
+  margin-bottom: 130px;
+  border: 0 !important;
+}
+
+.custom-button {
+  margin-top: 24px;
+  color: blue;
+  border-color: blue;
+  background-color: transparent;
+}
