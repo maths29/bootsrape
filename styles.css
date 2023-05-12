@@ -5,6 +5,23 @@
   font-family: 'Poppins', sans-serif;
 }
 
+.head-text {
+  height: 100vh;
+  padding-top: 360px;
+  background-image: url(./img/Header\ bg.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head-text .pod {
+  padding-left: 250px;
+}
+
+.head-text .pod p {
+  width: 40%;
+}
+
 .list-group {
   margin-bottom: 10px;
 }
