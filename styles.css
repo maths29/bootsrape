@@ -22,8 +22,15 @@
   width: 40%;
 }
 
+.col-md-6 {
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 .list-group {
   margin-bottom: 10px;
+  gap: 10px;
 }
 
 .list-item {
@@ -44,13 +51,19 @@
   padding-top: 140px;
 }
 
-.worksec .card-md-12 > .card {
-  border: 0 !important;
-  background-color: white;
+.worksec .col-md-12 .card .row {
+  border: 0;
+  border-radius: 24px !important;
 }
 
 .col-md-12 {
   margin-bottom: 130px;
-  border-radius: 24px !important;
-  border: 1px solid #dfe1e6;
+  border: 0 !important;
+}
+
+.custom-button {
+  margin-top: 24px;
+  color: blue;
+  border-color: blue;
+  background-color: transparent;
 }
